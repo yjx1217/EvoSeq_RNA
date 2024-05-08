@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR23257372_1	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257372_1_fastqc.zip
+FastQC	all_sections	SRR23257372_2	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257372_2_fastqc.zip
+FastQC	all_sections	SRR23257373_1	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257373_1_fastqc.zip
+FastQC	all_sections	SRR23257373_2	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257373_2_fastqc.zip
+FastQC	all_sections	SRR23257374_1	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257374_1_fastqc.zip
+FastQC	all_sections	SRR23257374_2	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257374_2_fastqc.zip
+FastQC	all_sections	SRR23257376_1	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257376_1_fastqc.zip
+FastQC	all_sections	SRR23257376_2	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257376_2_fastqc.zip
+FastQC	all_sections	SRR23257377_1	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257377_1_fastqc.zip
+FastQC	all_sections	SRR23257377_2	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257377_2_fastqc.zip
+FastQC	all_sections	SRR23257378_1	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257378_1_fastqc.zip
+FastQC	all_sections	SRR23257378_2	/public/jxyue/Projects/EvoSeq_RNA/Project_Example/00.RNAseq_Reads/SRR23257378_2_fastqc.zip

@@ -1,0 +1,8 @@
+## data source: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223908
+# sample_id	SRR_id
+AsPC1_ctrl_1	SRR23257378
+AsPC1_ctrl_2	SRR23257377
+AsPC1_ctrl_3	SRR23257376
+OEserpinb3_1	SRR23257374
+OEserpinb3_2	SRR23257373
+OEserpinb3_3	SRR23257372
